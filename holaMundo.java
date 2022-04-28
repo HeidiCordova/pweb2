@@ -4,6 +4,8 @@ public class holaMundo {
     Scanner sc = new Scanner(System.in);
     //hola mundo
     System.out.println("Hola Mundo");
+
+    System.out.println("Bienvenidos al curso de pweb2");
   }
 }
 
